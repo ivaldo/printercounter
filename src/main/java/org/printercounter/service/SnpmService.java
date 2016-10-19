@@ -1,6 +1,6 @@
 package org.printercounter.service;
 
-import org.printercounter.Printer;
+import org.printercounter.bean.Printer;
 
 public interface SnpmService {
 

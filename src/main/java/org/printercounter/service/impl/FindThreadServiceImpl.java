@@ -5,7 +5,7 @@ import java.io.OutputStream;
 
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
-import org.printercounter.Printer;
+import org.printercounter.bean.Printer;
 import org.printercounter.service.FindThreadService;
 import org.printercounter.service.SnpmService;
 import org.springframework.beans.factory.annotation.Autowired;

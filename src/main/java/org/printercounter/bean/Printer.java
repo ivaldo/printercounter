@@ -1,4 +1,4 @@
-package org.printercounter;
+package org.printercounter.bean;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

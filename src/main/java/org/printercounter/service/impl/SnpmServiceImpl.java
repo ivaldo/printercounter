@@ -6,7 +6,7 @@ import java.util.Vector;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
-import org.printercounter.Printer;
+import org.printercounter.bean.Printer;
 import org.printercounter.service.SnpmService;
 import org.snmp4j.CommunityTarget;
 import org.snmp4j.PDU;

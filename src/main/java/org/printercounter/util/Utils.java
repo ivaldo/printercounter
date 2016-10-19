@@ -1,4 +1,4 @@
-package org.printercounter;
+package org.printercounter.util;
 
 import java.util.HashSet;
 import java.util.Set;
